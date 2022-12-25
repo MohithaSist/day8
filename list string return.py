@@ -15,43 +15,5 @@ print(l2)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-'''s=input()
-len1=len(s)
-str1=''
-l=[]
-query=sorted(set(input().split()))
-for i in query:
-    if ((i[0:len1])==0):
-        print(i)'''
-            
-        
-
-
         
         
